@@ -51,6 +51,3 @@ I am actively adding new projects:
 ---
 
 ⭐️ *Thanks for visiting! Feel free to explore my repositories.*
-
-- ⚡ Fun fact: ...
--->
